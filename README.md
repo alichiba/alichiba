@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I am Alison Hardy 😎
+I am an aspiring software engineer with a background in design and business, currently studying Computer Science and Business at the University of British Columbia. 
+I am most skilled with front-end work but I am currently working on becoming a better engineer all around, exploring full-stack, and building personal projects. Currently learning about databases. 
+👋 Lets chat! Reach me on [LinkedIn](https://www.linkedin.com/in/alison-hardy/), [Twitter](https://twitter.com/alisonhardy_) or contact@alisonhardy.me
 
 <!--
 **alichiba/alichiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
