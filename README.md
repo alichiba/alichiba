@@ -3,7 +3,7 @@ I am an aspiring software engineer with a background in design and business, cur
 
 I am most skilled with front-end work but I am currently working on becoming a better engineer all around, exploring full-stack, and building personal projects. Currently learning about databases. 
 
-👋 Lets chat! Reach me on [LinkedIn](https://www.linkedin.com/in/alison-hardy/), [Twitter](https://twitter.com/alisonhardy_) or contact@alisonhardy.me
+Lets chat!👋 Reach me on [LinkedIn](https://www.linkedin.com/in/alison-hardy/), [Twitter](https://twitter.com/alisonhardy_) or contact@alisonhardy.me
 
 <!--
 **alichiba/alichiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
