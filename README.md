@@ -1,9 +1,9 @@
 ### Hello, I am Alison Hardy 😎
-I am an aspiring software engineer with a background in design and business, currently studying Computer Science and Business at the University of British Columbia. 
+I am currently interning at AWS as an engineer intern. My background is in cs, business, and design. Currently doing my undergrad in Computer Science and Business at the University of British Columbia. 
 
-I am most skilled with front-end work but I am currently working on becoming a better engineer all around, exploring full-stack, and building personal projects. Currently learning about databases. 
+I am currently working on becoming a better engineer all around, exploring full-stack, and building personal projects. Done a fair bit of front-end work in the past. Hoping to dabble in some AI soon.
 
-Lets chat!👋 Reach me on [LinkedIn](https://www.linkedin.com/in/alison-hardy/), [Twitter](https://twitter.com/alisonhardy_) or alisonlhardy@gmail.com
+Lets chat!👋 Reach me on [LinkedIn](https://www.linkedin.com/in/alison-hardy/), or alisonlhardy@gmail.com
 
 <!--
 **alichiba/alichiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
