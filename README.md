@@ -1,7 +1,7 @@
 ### Hello, I am Alison Hardy 😎
-I am currently interning at AWS as an engineer intern. My background is in cs, business, and design. Currently doing my undergrad in Computer Science and Business at the University of British Columbia. 
+My background is in cs, business, and design. Currently doing my undergrad in Computer Science and Business at the University of British Columbia. 
 
-I am currently working on becoming a better engineer all around, exploring full-stack, and building personal projects. Done a fair bit of front-end work in the past. Hoping to dabble in some AI soon.
+I am currently working on becoming a better engineer all around, exploring full-stack, and building personal projects.
 
 Lets chat!👋 Reach me on [LinkedIn](https://www.linkedin.com/in/alison-hardy/), or alisonlhardy@gmail.com
 
